@@ -1,0 +1,21 @@
+body{
+    background-color:pink
+}
+.card-body{
+    color:white;
+    background-color:rgb(163, 155, 167);
+}
+
+
+.container{
+    text-align: center;
+    background-color: pink;
+}
+.containerjumbotron{
+    /* color:white; */
+    /* background-color: black; */
+
+    color: white;
+        background-color: black;
+}
+
